@@ -1,4 +1,5 @@
 # 归并排序
+test
 def sort(nums, lo, hi):
     if lo < hi:
         mid = lo + (hi-lo)//2
